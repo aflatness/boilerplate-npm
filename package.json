@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alec Flatness",
+	"description": "Learning how to use npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
