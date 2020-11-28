@@ -3,6 +3,7 @@
 	"author": "Alec Flatness",
 	"description": "Learning how to use npm",
 	"keywords": ["test", "learning", "testing", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
