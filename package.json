@@ -4,7 +4,7 @@
 	"description": "Learning how to use npm",
 	"keywords": ["test", "learning", "testing", "freecodecamp"],
 	"license": "MIT",
-	"veriosn": "1.0.0",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
